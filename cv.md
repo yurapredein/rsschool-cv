@@ -28,7 +28,7 @@ I believe, that my ability to learn and to gain new skills will lead me through 
 - JavaScript Basics
 - Git, GitHub
 - VS Code
-- Adobe Photoshop
+- Salesforce
 
 **Code example:**
 
